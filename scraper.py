@@ -4,9 +4,9 @@ import mysql.connector
 import time
 
 DB_CONFIG = {
-    "host": "mysql_container",
+    "host": "localhost",
     "user": "root",
-    "password": "rootpassword",
+    "password": "password_ for_MySQL",
     "database": "scraper_db"
 }
 
